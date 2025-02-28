@@ -1,4 +1,4 @@
-package opp
+package opp.example
 
 class Person (
     val name: String,

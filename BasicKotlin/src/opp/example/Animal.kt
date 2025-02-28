@@ -1,4 +1,4 @@
-package opp
+package opp.example
 
 interface Animal {
     fun makeSound() // là phương thức trừu tượng, bắt buộc phải override

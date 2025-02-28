@@ -1,4 +1,4 @@
-package opp
+package opp.example
 
 abstract class AnimalAC {
     abstract fun makeSound()// truu tuong class con bắt buộc override.
